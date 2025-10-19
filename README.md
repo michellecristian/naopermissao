@@ -1,3 +1,3 @@
 # naopermissao
 azure não permite fazer o projeto
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/dedffebd-9277-42ec-b767-d5fef48eb08d" />
+![naoperm](https://github.com/user-attachments/assets/c01ab808-d6f9-4444-94fa-35724fad0a78)
